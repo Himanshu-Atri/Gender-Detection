@@ -11,7 +11,7 @@ created a men vs women classification model using machine learning techniques, w
 1. Clone this repository
 2. Download the dataset from [here](https://www.kaggle.com/datasets/saadpd/menwomen-classification). 
 3. Extract the dataset to your repository folder.
-4. Open the [Model jupyter notebool](https://github.com/Himanshu-Atri/Men-VS-Women/blob/main/men-vs-women-best.ipynb)
+4. Open the [Model jupyter notebook](https://github.com/Himanshu-Atri/Men-VS-Women/blob/main/men-vs-women-best.ipynb)
 5. Run this notebook
 6. Run the [gui.py](https://github.com/Himanshu-Atri/Men-VS-Women/blob/main/gui_model.py) file
 7. Upload the Image you want to detect
