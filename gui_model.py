@@ -17,11 +17,9 @@ top.geometry('800x600')
 top.title('man or woman')
 top.configure(background='#101820')
 
-# Initializing the Labels (1 for age and 1 for Sex)
 label1=Label(top,background="#FEE715",font=('arial',15,"bold"))
 sign_image=Label(top)
 
-# Definig Detect fuction which detects the age and gender of the person in image using the model
 def Detect(file_path):
     global label_packed
     
