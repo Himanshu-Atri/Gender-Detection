@@ -1,2 +1,9 @@
 Here is the drive link to download the model for using it in the gui file:
-https://drive.google.com/file/d/1Jvp9Bu28Zfl6HN3I3bdaJ8O4EnXAQBiq/view?usp=sharing
+
+custom CNN model:
+https://drive.google.com/file/d/1ARBSz7jWBgZbAWMYyWQMkz1y1jg88E6b/view?usp=sharing
+
+vgg16 model:
+https://drive.google.com/file/d/1gdcgHBvJ-wRcQprIB5szODxOVywKxWO-/view?usp=sharing
+
+
